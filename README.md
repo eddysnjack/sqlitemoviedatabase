@@ -8,4 +8,4 @@ when u click a row, program will show additional information that u have in your
 second tab:
   u can search by sql commands from searchfield or u can use various filters at boottom.
 
-ps: i am aware of that there are a lots things need to be done. but thats how far i could came so far.
+ps: i am aware of that there are a lots things need to be done. but thats how far i could came so far. and also there are lots of unneccessary files and lines. need a cleaning. dont have time unfortunately.
